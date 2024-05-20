@@ -1,0 +1,75 @@
+C:\Users\Omar\Desktop\New folder\DreamParadise\obj\Debug\net6.0\DreamParadise.csproj.AssemblyReference.cache
+C:\Users\Omar\Desktop\New folder\DreamParadise\obj\Debug\net6.0\DreamParadise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Desktop\New folder\DreamParadise\obj\Debug\net6.0\DreamParadise.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\New folder\DreamParadise\obj\Debug\net6.0\DreamParadise.AssemblyInfo.cs
+C:\Users\Omar\Desktop\New folder\DreamParadise\obj\Debug\net6.0\DreamParadise.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\New folder\DreamParadise\obj\Debug\net6.0\DreamParadise.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Omar\Desktop\New folder\DreamParadise\obj\Debug\net6.0\DreamParadise.RazorAssemblyInfo.cache
+C:\Users\Omar\Desktop\New folder\DreamParadise\obj\Debug\net6.0\DreamParadise.RazorAssemblyInfo.cs
+C:\Users\Omar\Desktop\New folder\DreamParadise\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Omar\Desktop\New folder\DreamParadise\bin\Debug\net6.0\appsettings.json
+C:\Users\Omar\Desktop\New folder\DreamParadise\bin\Debug\net6.0\DreamParadise.staticwebassets.runtime.json
+C:\Users\Omar\Desktop\New folder\DreamParadise\bin\Debug\net6.0\DreamParadise.exe
+C:\Users\Omar\Desktop\New folder\DreamParadise\bin\Debug\net6.0\DreamParadise.deps.json
+C:\Users\Omar\Desktop\New folder\DreamParadise\bin\Debug\net6.0\DreamParadise.runtimeconfig.json
+C:\Users\Omar\Desktop\New folder\DreamParadise\bin\Debug\net6.0\DreamParadise.dll
+C:\Users\Omar\Desktop\New folder\DreamParadise\bin\Debug\net6.0\DreamParadise.pdb
+C:\Users\Omar\Desktop\New folder\DreamParadise\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Omar\Desktop\New folder\DreamParadise\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Omar\Desktop\New folder\DreamParadise\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Omar\Desktop\New folder\DreamParadise\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Omar\Desktop\New folder\DreamParadise\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Omar\Desktop\New folder\DreamParadise\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Omar\Desktop\New folder\DreamParadise\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Omar\Desktop\New folder\DreamParadise\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Omar\Desktop\New folder\DreamParadise\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Omar\Desktop\New folder\DreamParadise\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Omar\Desktop\New folder\DreamParadise\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Omar\Desktop\New folder\DreamParadise\obj\Debug\net6.0\scopedcss\bundle\DreamParadise.styles.css
+C:\Users\Omar\Desktop\New folder\DreamParadise\obj\Debug\net6.0\scopedcss\projectbundle\DreamParadise.bundle.scp.css
+C:\Users\Omar\Desktop\New folder\DreamParadise\obj\Debug\net6.0\DreamParadise.csproj.CopyComplete
+C:\Users\Omar\Desktop\New folder\DreamParadise\obj\Debug\net6.0\DreamParadise.dll
+C:\Users\Omar\Desktop\New folder\DreamParadise\obj\Debug\net6.0\refint\DreamParadise.dll
+C:\Users\Omar\Desktop\New folder\DreamParadise\obj\Debug\net6.0\DreamParadise.pdb
+C:\Users\Omar\Desktop\New folder\DreamParadise\obj\Debug\net6.0\DreamParadise.genruntimeconfig.cache
+C:\Users\Omar\Desktop\New folder\DreamParadise\obj\Debug\net6.0\ref\DreamParadise.dll
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\bin\Debug\net6.0\appsettings.json
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\bin\Debug\net6.0\DreamParadise.staticwebassets.runtime.json
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\bin\Debug\net6.0\DreamParadise.exe
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\bin\Debug\net6.0\DreamParadise.deps.json
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\bin\Debug\net6.0\DreamParadise.runtimeconfig.json
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\bin\Debug\net6.0\DreamParadise.dll
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\bin\Debug\net6.0\DreamParadise.pdb
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\bin\Debug\net6.0\Humanizer.dll
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\obj\Debug\net6.0\DreamParadise.csproj.AssemblyReference.cache
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\obj\Debug\net6.0\DreamParadise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\obj\Debug\net6.0\DreamParadise.AssemblyInfoInputs.cache
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\obj\Debug\net6.0\DreamParadise.AssemblyInfo.cs
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\obj\Debug\net6.0\DreamParadise.csproj.CoreCompileInputs.cache
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\obj\Debug\net6.0\DreamParadise.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\obj\Debug\net6.0\DreamParadise.RazorAssemblyInfo.cache
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\obj\Debug\net6.0\DreamParadise.RazorAssemblyInfo.cs
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\obj\Debug\net6.0\staticwebassets\msbuild.DreamParadise.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\obj\Debug\net6.0\staticwebassets\msbuild.build.DreamParadise.props
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DreamParadise.props
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DreamParadise.props
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\obj\Debug\net6.0\scopedcss\bundle\DreamParadise.styles.css
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\obj\Debug\net6.0\scopedcss\projectbundle\DreamParadise.bundle.scp.css
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\obj\Debug\net6.0\DreamPar.28070EBA.Up2Date
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\obj\Debug\net6.0\DreamParadise.dll
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\obj\Debug\net6.0\refint\DreamParadise.dll
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\obj\Debug\net6.0\DreamParadise.pdb
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\obj\Debug\net6.0\DreamParadise.genruntimeconfig.cache
+C:\Users\prese\Downloads\FinalProject-master\FinalProject-master\DreamParadise\obj\Debug\net6.0\ref\DreamParadise.dll
